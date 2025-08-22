@@ -71,6 +71,12 @@ Count_Larcan_nests_Hannah: Total number of Common gull nests within a 5-meter ra
 
 Data were collected during a research project conducted on Kakrarahu islet, Estonia. Data are related to Common gull breeding pairs on which flight initiation distance protocols have been conducted over 3 years (2023, 2024, 2025).
 
+## Description of the Data and file structure
+
+The file contains 15 columns.
+
+Data were collected during a research project conducted on Kakrarahu islet, Estonia. Data are related to Common gull breeding pairs on which flight initiation distance protocols have been conducted over 3 years (2023, 2024, 2025).
+
 Egg: Mass of the egg, in grams
 
 EggNb: Number of the egg, indicating if it was laid as a 1st, 2nd, 3rd, etc..., egg
